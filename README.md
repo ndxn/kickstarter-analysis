@@ -16,7 +16,7 @@ The two specified charts and the third chart, which was implied in the instructi
 
 Perhaps the most marked correlation between success of theatric Kickstarter campaigns and their launch date. Figure 1 charts the month of the project launch and number of funded, failed, and canceled project. A significant peak of funded project occurs in May and the drop-off is not visually any more signficant from other seasonal drops in successes. 
 
-![image](./READMEImages/OutcomesByLaunchDate.png)
+![image](./READMEImages/OutcomesByLaunchDate.png)<br/>
 **Figure 1.** *Outcomes of Kickstarter Theater Projects Based on Month of Launch*
 
 November, December, and January see relatively low numbers of projects being funded; however, the same time period has lower-than-typical rates of failure.
@@ -27,14 +27,14 @@ Conversely, the total number of projects peaks in May and tapers off in the mont
 
 In regards to funding goals, there does not appear to be a linear coorelation, as demonstrated in Figure 2.
 
-![image](./READMEImages/OutcomesByGoal.png)
+![image](./READMEImages/OutcomesByGoal.png)<br/>
 **Figure 2.** *Outcomes of Kickstarter Play by Initial Goal, October 2010 to February 2017*
 
 Instead there seem to be a few sweet spot. First, projects on the low end of the spectrum have relatively high success rates. The data points in the first three bins are particularly robust and it's easy to see that projects that do not ask for a lot from the project backers. Another sweet spot appears for projects with goals from $35,000 to $44,999. This trend, however, is likely an anomoly. The data for projects with goals of $15,000 or more simply is not that robust. While it is the case that  two-thirds of the projects are successful, that is two-thirds of nine projects As such, the results should be taken with some skepticism. It is likely that the high rate of success for projects in this range is a factor of there being relatively few campaigns and, those that have been started, are of particularly high quality. An anamoly like this would be quite common in situations with relatively litte data.
 
 Finally, the pro bono analysi of yeilds some fine preliminary results. While far from a normal curve, it seems that there is something that resembles a bell in Figure 3.
 
-![image](./READMEImages/OutcomesByCampaignLength.png)
+![image](./READMEImages/OutcomesByCampaignLength.png)<br/>
 **Figure 3.** *Outcomes of Kickstarter Plays by Campaign Length, October 2010 to February 2017
 
 The middle range of the length of campaigns is higher than either end. The recomendation for Louise would be that she plan to run her campaign from between 15 to 44 days. As her goal is relatively modest, a more specific recomendation is that she go toward the lower end of that range.
