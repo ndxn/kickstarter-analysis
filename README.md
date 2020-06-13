@@ -10,6 +10,9 @@ In order to address all implied and explict instructions, the challenge instruct
 
 #### Conclusions
 
+The two specified charts and the third chart, which was implied in the instruction, demonstrate that there is a significant correlation between 
 ![image](./READMEImages/OutcomesByLaunchDate.png)
+
 ![image](./READMEImages/OutcomesByGoal.png)
+
 ![image](./READMEImages/OutcomesByCampaignLength.png)
