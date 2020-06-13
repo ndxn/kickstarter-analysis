@@ -10,4 +10,6 @@ In order to address all implied and explict instructions, the challenge instruct
 
 #### Conclusions
 
-
+![image](./READMEImages/OutcomesByLaunchDate.png)
+![image](./READMEImages/OutcomesByGoal.png)
+![image](./READMEImages/OutcomesByCampaignLength.png)
